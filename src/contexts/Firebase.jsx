@@ -11,11 +11,11 @@ const FirebaseContext = createContext(null);
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB_xGa0OZY61sDJS_Y1NuTGO6eRo-zNZ4o",
+  apiKey: "YOUR_API_KEY",
   authDomain: "bookify-b25a4.firebaseapp.com",
   projectId: "bookify-b25a4",
   storageBucket: "bookify-b25a4.firebasestorage.app",
-  messagingSenderId: "650540838686",
+  messagingSenderId: "YOUR_MSG_ID",
   appId: "1:650540838686:web:5e39e912df1fc3fdcea30f"
 };
 
